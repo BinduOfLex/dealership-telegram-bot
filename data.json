@@ -1,0 +1,8002 @@
+[
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2019,
+        "color": "Silver",
+        "price": 134749.73,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2008,
+        "color": "Gold",
+        "price": 276119.03,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2017,
+        "color": "Blue",
+        "price": 223846.32,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2015,
+        "color": "Blue",
+        "price": 126833.12,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2024,
+        "color": "Silver",
+        "price": 46958.15,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2022,
+        "color": "Brown",
+        "price": 241903.4,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2002,
+        "color": "Black",
+        "price": 200093.17,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2001,
+        "color": "Black",
+        "price": 58226.01,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2021,
+        "color": "Red",
+        "price": 289092.28,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2006,
+        "color": "Gray",
+        "price": 117332.96,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2015,
+        "color": "White",
+        "price": 138452.77,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2009,
+        "color": "Yellow",
+        "price": 168054.53,
+        "city": "Najran"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2001,
+        "color": "Black",
+        "price": 126234.64,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2025,
+        "color": "Black",
+        "price": 67148.37,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2000,
+        "color": "Red",
+        "price": 134902.52,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2003,
+        "color": "Black",
+        "price": 162705.32,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2009,
+        "color": "Black",
+        "price": 122991.94,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2009,
+        "color": "Gray",
+        "price": 270091.02,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2008,
+        "color": "White",
+        "price": 115149.69,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2014,
+        "color": "Black",
+        "price": 51112.51,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2005,
+        "color": "Yellow",
+        "price": 59813.3,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2006,
+        "color": "Blue",
+        "price": 122106.04,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2023,
+        "color": "Gold",
+        "price": 68473.86,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2002,
+        "color": "White",
+        "price": 203392.91,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2005,
+        "color": "Blue",
+        "price": 64014.36,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2023,
+        "color": "Red",
+        "price": 194964.36,
+        "city": "Hail"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2020,
+        "color": "Gold",
+        "price": 267007.72,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2009,
+        "color": "Blue",
+        "price": 90360.62,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2020,
+        "color": "Green",
+        "price": 251903.38,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2024,
+        "color": "Black",
+        "price": 91592.66,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2013,
+        "color": "Brown",
+        "price": 22413.9,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2002,
+        "color": "Yellow",
+        "price": 267205.55,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2020,
+        "color": "Gold",
+        "price": 223106.97,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2005,
+        "color": "Blue",
+        "price": 269375.91,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2010,
+        "color": "Blue",
+        "price": 213678.46,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2019,
+        "color": "Yellow",
+        "price": 273533.72,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 100757.01,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2002,
+        "color": "White",
+        "price": 78805.08,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2008,
+        "color": "Green",
+        "price": 234136.82,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2015,
+        "color": "Gold",
+        "price": 72553.08,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2002,
+        "color": "Blue",
+        "price": 266537.99,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2021,
+        "color": "Brown",
+        "price": 191995.72,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 180822.98,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2008,
+        "color": "White",
+        "price": 215610.98,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2013,
+        "color": "Gold",
+        "price": 204474.24,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2013,
+        "color": "Blue",
+        "price": 247560.41,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2016,
+        "color": "Brown",
+        "price": 44784.4,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2019,
+        "color": "Red",
+        "price": 227896.89,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2012,
+        "color": "Gold",
+        "price": 80957.25,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2001,
+        "color": "Red",
+        "price": 273313.41,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2004,
+        "color": "Black",
+        "price": 241003.27,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 83096.26,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2012,
+        "color": "Gray",
+        "price": 149734.45,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2015,
+        "color": "Blue",
+        "price": 144934.77,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2011,
+        "color": "Red",
+        "price": 298193.12,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2018,
+        "color": "Gray",
+        "price": 225396.58,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2014,
+        "color": "Red",
+        "price": 177652.54,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2001,
+        "color": "Gray",
+        "price": 171802.16,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2020,
+        "color": "Silver",
+        "price": 34706.6,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2010,
+        "color": "Silver",
+        "price": 18555.5,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2004,
+        "color": "Brown",
+        "price": 153348.03,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2014,
+        "color": "White",
+        "price": 262683.39,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2011,
+        "color": "Gold",
+        "price": 45232.2,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2013,
+        "color": "Brown",
+        "price": 251839.08,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2010,
+        "color": "Silver",
+        "price": 85211.4,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2015,
+        "color": "Black",
+        "price": 276189.09,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2005,
+        "color": "Yellow",
+        "price": 83616.44,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2012,
+        "color": "Red",
+        "price": 232164.65,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2016,
+        "color": "Red",
+        "price": 181485.97,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2021,
+        "color": "Red",
+        "price": 94854.23,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2010,
+        "color": "Brown",
+        "price": 254808.7,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2003,
+        "color": "Gray",
+        "price": 61436.9,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2015,
+        "color": "Black",
+        "price": 68803.98,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2020,
+        "color": "Green",
+        "price": 133816.79,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2023,
+        "color": "Green",
+        "price": 262201.1,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2011,
+        "color": "Silver",
+        "price": 118970.42,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2006,
+        "color": "Brown",
+        "price": 265463.57,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2014,
+        "color": "Red",
+        "price": 260012.44,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2013,
+        "color": "Green",
+        "price": 219448.99,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2005,
+        "color": "Blue",
+        "price": 239689.54,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2010,
+        "color": "Gray",
+        "price": 274368.63,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2022,
+        "color": "Red",
+        "price": 263739.51,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2007,
+        "color": "Gray",
+        "price": 34422.88,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2017,
+        "color": "Red",
+        "price": 73354.44,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2013,
+        "color": "Black",
+        "price": 46530.82,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2021,
+        "color": "Green",
+        "price": 32795.3,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2008,
+        "color": "Brown",
+        "price": 122488.4,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2004,
+        "color": "Silver",
+        "price": 239661.37,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2022,
+        "color": "Black",
+        "price": 265709.46,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2016,
+        "color": "Red",
+        "price": 130356.35,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2001,
+        "color": "Green",
+        "price": 155993.86,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2007,
+        "color": "White",
+        "price": 89133.33,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2015,
+        "color": "Gray",
+        "price": 117762.78,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2013,
+        "color": "Yellow",
+        "price": 122729.8,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2025,
+        "color": "Silver",
+        "price": 115241.45,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2001,
+        "color": "Silver",
+        "price": 88354.77,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2005,
+        "color": "Blue",
+        "price": 90168.62,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2024,
+        "color": "Gray",
+        "price": 284172.51,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2007,
+        "color": "Yellow",
+        "price": 166724.67,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2019,
+        "color": "White",
+        "price": 183627.33,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2025,
+        "color": "Red",
+        "price": 252320.68,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2024,
+        "color": "Silver",
+        "price": 143401.91,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2017,
+        "color": "Gold",
+        "price": 210497.13,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2002,
+        "color": "Green",
+        "price": 127009.03,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2018,
+        "color": "Brown",
+        "price": 255679.27,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2000,
+        "color": "Gold",
+        "price": 147069.43,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2022,
+        "color": "Red",
+        "price": 63546.79,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2009,
+        "color": "Silver",
+        "price": 47736.51,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2013,
+        "color": "Green",
+        "price": 65201.41,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2010,
+        "color": "Green",
+        "price": 250424.42,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2006,
+        "color": "Gray",
+        "price": 47691.85,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2006,
+        "color": "Silver",
+        "price": 99236.67,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2006,
+        "color": "Silver",
+        "price": 24869.07,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2018,
+        "color": "Green",
+        "price": 178302.32,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2020,
+        "color": "Gray",
+        "price": 53784.67,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2006,
+        "color": "Blue",
+        "price": 104140.34,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2008,
+        "color": "Brown",
+        "price": 71046.99,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2013,
+        "color": "Brown",
+        "price": 252754.87,
+        "city": "Medina"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2003,
+        "color": "Red",
+        "price": 116648.69,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2021,
+        "color": "Silver",
+        "price": 57474.6,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2025,
+        "color": "Blue",
+        "price": 104615.38,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2017,
+        "color": "Silver",
+        "price": 98782.41,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2022,
+        "color": "Blue",
+        "price": 156410.04,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2020,
+        "color": "Gray",
+        "price": 191905.16,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2021,
+        "color": "Red",
+        "price": 226512.43,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2022,
+        "color": "Gray",
+        "price": 180758.83,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2004,
+        "color": "Silver",
+        "price": 56191.87,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2000,
+        "color": "Silver",
+        "price": 177805.59,
+        "city": "Medina"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2013,
+        "color": "Red",
+        "price": 62426.25,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2013,
+        "color": "Gold",
+        "price": 50984.5,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2008,
+        "color": "Yellow",
+        "price": 233460.45,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2003,
+        "color": "Black",
+        "price": 275154.39,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2017,
+        "color": "Gray",
+        "price": 125349.31,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2002,
+        "color": "Green",
+        "price": 261521.11,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2007,
+        "color": "White",
+        "price": 18812.3,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2018,
+        "color": "Gray",
+        "price": 49414.25,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2013,
+        "color": "White",
+        "price": 116587.32,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2019,
+        "color": "Gold",
+        "price": 224447.25,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2007,
+        "color": "Red",
+        "price": 268852.28,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2005,
+        "color": "Red",
+        "price": 41325.43,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2002,
+        "color": "White",
+        "price": 273877.04,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2020,
+        "color": "Red",
+        "price": 125376.57,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2011,
+        "color": "Red",
+        "price": 264819.58,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2011,
+        "color": "Gold",
+        "price": 154055.0,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2018,
+        "color": "Silver",
+        "price": 239725.28,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2021,
+        "color": "Green",
+        "price": 58721.61,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2014,
+        "color": "White",
+        "price": 283931.27,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2021,
+        "color": "Brown",
+        "price": 73811.33,
+        "city": "Medina"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2007,
+        "color": "Gray",
+        "price": 94483.45,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2009,
+        "color": "Silver",
+        "price": 85591.45,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2014,
+        "color": "Silver",
+        "price": 20778.7,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2015,
+        "color": "Silver",
+        "price": 284328.27,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2011,
+        "color": "White",
+        "price": 282670.59,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2006,
+        "color": "Gray",
+        "price": 198842.74,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2020,
+        "color": "Green",
+        "price": 111799.46,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2019,
+        "color": "Green",
+        "price": 135870.99,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2018,
+        "color": "Red",
+        "price": 44895.52,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2014,
+        "color": "Black",
+        "price": 177165.26,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2007,
+        "color": "Brown",
+        "price": 83733.54,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2012,
+        "color": "Red",
+        "price": 25991.9,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2009,
+        "color": "Silver",
+        "price": 132306.24,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2009,
+        "color": "Yellow",
+        "price": 79817.31,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2010,
+        "color": "White",
+        "price": 59316.98,
+        "city": "Najran"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2010,
+        "color": "Yellow",
+        "price": 72939.2,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2008,
+        "color": "White",
+        "price": 132315.15,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2004,
+        "color": "Blue",
+        "price": 22053.15,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2015,
+        "color": "Green",
+        "price": 53247.44,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2003,
+        "color": "Gold",
+        "price": 164973.07,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2016,
+        "color": "Blue",
+        "price": 65844.33,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2014,
+        "color": "Yellow",
+        "price": 203540.8,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2022,
+        "color": "Gold",
+        "price": 133759.41,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2024,
+        "color": "Gray",
+        "price": 296472.53,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2022,
+        "color": "Gold",
+        "price": 299343.46,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2017,
+        "color": "Red",
+        "price": 86803.4,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2012,
+        "color": "Green",
+        "price": 140830.83,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2019,
+        "color": "Green",
+        "price": 235129.65,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2021,
+        "color": "Black",
+        "price": 142833.15,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2020,
+        "color": "White",
+        "price": 55071.21,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2025,
+        "color": "Yellow",
+        "price": 243106.99,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2000,
+        "color": "Gray",
+        "price": 221535.22,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2005,
+        "color": "Red",
+        "price": 204953.98,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2001,
+        "color": "Brown",
+        "price": 38924.04,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2016,
+        "color": "Red",
+        "price": 103974.54,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2004,
+        "color": "Blue",
+        "price": 237161.72,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2025,
+        "color": "Gold",
+        "price": 176905.15,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2020,
+        "color": "Gold",
+        "price": 45845.15,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2011,
+        "color": "Silver",
+        "price": 28737.95,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2003,
+        "color": "Blue",
+        "price": 78829.64,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2017,
+        "color": "Gold",
+        "price": 30488.09,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2001,
+        "color": "Black",
+        "price": 264188.72,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2025,
+        "color": "Blue",
+        "price": 169740.31,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2025,
+        "color": "Green",
+        "price": 16352.47,
+        "city": "Najran"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2006,
+        "color": "Gray",
+        "price": 99760.81,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2011,
+        "color": "Blue",
+        "price": 221112.5,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2018,
+        "color": "Green",
+        "price": 68410.17,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2011,
+        "color": "Gold",
+        "price": 143459.67,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2002,
+        "color": "Blue",
+        "price": 59460.76,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2020,
+        "color": "Brown",
+        "price": 93551.44,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2012,
+        "color": "Silver",
+        "price": 104628.69,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2011,
+        "color": "White",
+        "price": 39672.73,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2005,
+        "color": "Gray",
+        "price": 112685.09,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2010,
+        "color": "Silver",
+        "price": 100482.83,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2017,
+        "color": "Black",
+        "price": 230136.33,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2024,
+        "color": "Green",
+        "price": 152574.3,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2015,
+        "color": "Silver",
+        "price": 87870.16,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2012,
+        "color": "Brown",
+        "price": 66722.92,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2018,
+        "color": "Brown",
+        "price": 182125.41,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2020,
+        "color": "White",
+        "price": 109116.57,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2012,
+        "color": "Green",
+        "price": 180092.24,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2016,
+        "color": "White",
+        "price": 20777.71,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2000,
+        "color": "Gray",
+        "price": 170390.8,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2019,
+        "color": "Yellow",
+        "price": 24403.45,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2025,
+        "color": "Green",
+        "price": 124585.29,
+        "city": "Hail"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2000,
+        "color": "Black",
+        "price": 156502.69,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2018,
+        "color": "Yellow",
+        "price": 164759.78,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2017,
+        "color": "Gold",
+        "price": 269457.67,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2011,
+        "color": "White",
+        "price": 273032.08,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2021,
+        "color": "Gray",
+        "price": 44761.78,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2003,
+        "color": "Red",
+        "price": 239502.7,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 91473.16,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2017,
+        "color": "Green",
+        "price": 220588.99,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2013,
+        "color": "Brown",
+        "price": 242919.7,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2018,
+        "color": "Blue",
+        "price": 31023.01,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2015,
+        "color": "Black",
+        "price": 289890.75,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2015,
+        "color": "Red",
+        "price": 122004.15,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2015,
+        "color": "Gold",
+        "price": 111459.95,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2000,
+        "color": "Green",
+        "price": 49814.43,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2001,
+        "color": "Gold",
+        "price": 279622.04,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2004,
+        "color": "Yellow",
+        "price": 153021.09,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2003,
+        "color": "Black",
+        "price": 223839.67,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2017,
+        "color": "Red",
+        "price": 151374.14,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2000,
+        "color": "Silver",
+        "price": 67058.8,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2001,
+        "color": "Red",
+        "price": 172923.86,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2004,
+        "color": "Black",
+        "price": 261732.38,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2000,
+        "color": "Gray",
+        "price": 285797.15,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2022,
+        "color": "Gold",
+        "price": 38577.42,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2000,
+        "color": "Gray",
+        "price": 65852.7,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2025,
+        "color": "Red",
+        "price": 261345.48,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2014,
+        "color": "Gold",
+        "price": 248299.15,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2006,
+        "color": "Blue",
+        "price": 261534.03,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2005,
+        "color": "Black",
+        "price": 258989.44,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2004,
+        "color": "White",
+        "price": 141161.19,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2006,
+        "color": "Silver",
+        "price": 286127.01,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2015,
+        "color": "Gray",
+        "price": 82488.34,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2023,
+        "color": "Black",
+        "price": 79664.81,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2007,
+        "color": "Silver",
+        "price": 268155.26,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2008,
+        "color": "Gold",
+        "price": 98059.79,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2017,
+        "color": "Blue",
+        "price": 118166.37,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2023,
+        "color": "Blue",
+        "price": 172041.21,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2000,
+        "color": "Green",
+        "price": 245698.14,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2022,
+        "color": "Gold",
+        "price": 136851.64,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2013,
+        "color": "Gray",
+        "price": 58113.49,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2007,
+        "color": "Gold",
+        "price": 133149.35,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2019,
+        "color": "White",
+        "price": 281877.81,
+        "city": "Medina"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2003,
+        "color": "Silver",
+        "price": 298051.99,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2005,
+        "color": "Blue",
+        "price": 141125.96,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 47018.74,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2003,
+        "color": "Green",
+        "price": 133837.32,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2015,
+        "color": "Silver",
+        "price": 170767.71,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2010,
+        "color": "Red",
+        "price": 176299.41,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2013,
+        "color": "White",
+        "price": 36559.03,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2014,
+        "color": "Blue",
+        "price": 178684.02,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2025,
+        "color": "Gold",
+        "price": 144458.96,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2002,
+        "color": "Red",
+        "price": 48570.61,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2003,
+        "color": "Green",
+        "price": 72478.45,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2015,
+        "color": "Gray",
+        "price": 219465.63,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2009,
+        "color": "Yellow",
+        "price": 134704.27,
+        "city": "Najran"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2010,
+        "color": "Red",
+        "price": 15564.06,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2023,
+        "color": "Gold",
+        "price": 141291.08,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2004,
+        "color": "Red",
+        "price": 274526.46,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2018,
+        "color": "Yellow",
+        "price": 223821.56,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2012,
+        "color": "Gray",
+        "price": 149578.88,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2001,
+        "color": "Gray",
+        "price": 28389.08,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2020,
+        "color": "Gray",
+        "price": 35132.35,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2001,
+        "color": "Brown",
+        "price": 70115.75,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2017,
+        "color": "Gray",
+        "price": 107199.23,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2005,
+        "color": "Gray",
+        "price": 219781.51,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2010,
+        "color": "Red",
+        "price": 165760.05,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2008,
+        "color": "Green",
+        "price": 34909.05,
+        "city": "Hail"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2006,
+        "color": "Black",
+        "price": 112449.11,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2009,
+        "color": "Blue",
+        "price": 98865.57,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2004,
+        "color": "Gold",
+        "price": 239471.42,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2005,
+        "color": "Yellow",
+        "price": 279988.2,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2019,
+        "color": "Red",
+        "price": 22445.04,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2007,
+        "color": "Gray",
+        "price": 196357.13,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2004,
+        "color": "Blue",
+        "price": 215555.73,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2022,
+        "color": "Green",
+        "price": 268430.7,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2022,
+        "color": "Gray",
+        "price": 30572.97,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2024,
+        "color": "Brown",
+        "price": 238341.94,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2001,
+        "color": "Green",
+        "price": 160932.23,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2012,
+        "color": "Red",
+        "price": 254797.28,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2017,
+        "color": "Brown",
+        "price": 39486.96,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2023,
+        "color": "Silver",
+        "price": 71533.42,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2001,
+        "color": "Black",
+        "price": 42130.1,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2023,
+        "color": "Blue",
+        "price": 117681.18,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2004,
+        "color": "Gold",
+        "price": 105100.47,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2004,
+        "color": "Gold",
+        "price": 156155.83,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2016,
+        "color": "Red",
+        "price": 222868.55,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2003,
+        "color": "Yellow",
+        "price": 186663.69,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2014,
+        "color": "Gray",
+        "price": 195625.66,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2010,
+        "color": "White",
+        "price": 244843.29,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2017,
+        "color": "Gray",
+        "price": 105940.03,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2003,
+        "color": "Red",
+        "price": 19636.75,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2004,
+        "color": "Silver",
+        "price": 179221.86,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2014,
+        "color": "Red",
+        "price": 92420.3,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2001,
+        "color": "Black",
+        "price": 176702.25,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2011,
+        "color": "White",
+        "price": 67114.03,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2016,
+        "color": "Yellow",
+        "price": 78996.38,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2015,
+        "color": "Red",
+        "price": 91795.79,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2024,
+        "color": "White",
+        "price": 139095.16,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2001,
+        "color": "Red",
+        "price": 128561.96,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2009,
+        "color": "Brown",
+        "price": 143642.91,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2007,
+        "color": "White",
+        "price": 237866.15,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2022,
+        "color": "White",
+        "price": 38642.49,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2007,
+        "color": "Gold",
+        "price": 23989.3,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2012,
+        "color": "Brown",
+        "price": 255163.44,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2021,
+        "color": "Brown",
+        "price": 144670.59,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2022,
+        "color": "Silver",
+        "price": 153930.26,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2016,
+        "color": "Yellow",
+        "price": 30066.31,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2024,
+        "color": "Silver",
+        "price": 41817.72,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 150550.84,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2001,
+        "color": "Red",
+        "price": 205662.08,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2024,
+        "color": "Gold",
+        "price": 50042.86,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2003,
+        "color": "Silver",
+        "price": 101710.97,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2024,
+        "color": "Brown",
+        "price": 53504.43,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2019,
+        "color": "Gold",
+        "price": 143164.22,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2015,
+        "color": "Brown",
+        "price": 297663.03,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2012,
+        "color": "Blue",
+        "price": 278294.05,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2011,
+        "color": "Blue",
+        "price": 62018.41,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2016,
+        "color": "Gold",
+        "price": 64981.48,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2010,
+        "color": "Red",
+        "price": 86157.57,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2023,
+        "color": "Black",
+        "price": 228479.07,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2022,
+        "color": "Gray",
+        "price": 55803.14,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2011,
+        "color": "White",
+        "price": 286830.3,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2012,
+        "color": "Green",
+        "price": 250357.32,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2013,
+        "color": "Silver",
+        "price": 212418.88,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 33053.27,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2020,
+        "color": "Yellow",
+        "price": 263404.24,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2012,
+        "color": "Black",
+        "price": 123022.32,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2025,
+        "color": "Silver",
+        "price": 238859.82,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2011,
+        "color": "White",
+        "price": 122060.84,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2014,
+        "color": "Gray",
+        "price": 291379.65,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2009,
+        "color": "Blue",
+        "price": 276585.6,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2008,
+        "color": "Green",
+        "price": 260785.28,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2007,
+        "color": "Gray",
+        "price": 53419.4,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2008,
+        "color": "Silver",
+        "price": 74043.5,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2000,
+        "color": "Red",
+        "price": 126837.77,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2021,
+        "color": "Silver",
+        "price": 257658.83,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2016,
+        "color": "Blue",
+        "price": 133410.25,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2013,
+        "color": "Brown",
+        "price": 34202.96,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2003,
+        "color": "Yellow",
+        "price": 252151.57,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2001,
+        "color": "Green",
+        "price": 91076.89,
+        "city": "Najran"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2008,
+        "color": "Green",
+        "price": 101334.06,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2011,
+        "color": "Gray",
+        "price": 148131.54,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2012,
+        "color": "Yellow",
+        "price": 166105.29,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2014,
+        "color": "Red",
+        "price": 27178.04,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2017,
+        "color": "Brown",
+        "price": 55314.2,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2024,
+        "color": "White",
+        "price": 237237.47,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2019,
+        "color": "Red",
+        "price": 64364.02,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2008,
+        "color": "Black",
+        "price": 165457.91,
+        "city": "Medina"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2010,
+        "color": "Red",
+        "price": 161811.1,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2025,
+        "color": "Gray",
+        "price": 118833.61,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2008,
+        "color": "White",
+        "price": 219004.55,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2000,
+        "color": "Green",
+        "price": 74114.59,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2021,
+        "color": "Gray",
+        "price": 281167.22,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2008,
+        "color": "Black",
+        "price": 266436.34,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2021,
+        "color": "White",
+        "price": 88250.37,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2016,
+        "color": "Blue",
+        "price": 178558.1,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2004,
+        "color": "Silver",
+        "price": 159603.76,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 111562.91,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 88475.97,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2015,
+        "color": "Brown",
+        "price": 178784.65,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2017,
+        "color": "Yellow",
+        "price": 186409.36,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2015,
+        "color": "Brown",
+        "price": 164870.61,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2013,
+        "color": "White",
+        "price": 27995.8,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2004,
+        "color": "Yellow",
+        "price": 205030.3,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2002,
+        "color": "Silver",
+        "price": 116304.06,
+        "city": "Najran"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2007,
+        "color": "Red",
+        "price": 78488.37,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2022,
+        "color": "Black",
+        "price": 15821.18,
+        "city": "Najran"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2004,
+        "color": "White",
+        "price": 111035.83,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2021,
+        "color": "Red",
+        "price": 60614.34,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2015,
+        "color": "Green",
+        "price": 221651.09,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2004,
+        "color": "Blue",
+        "price": 118544.87,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2011,
+        "color": "Gold",
+        "price": 159829.35,
+        "city": "Najran"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2013,
+        "color": "Black",
+        "price": 184142.85,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2010,
+        "color": "Black",
+        "price": 196208.26,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2002,
+        "color": "Brown",
+        "price": 142947.74,
+        "city": "Hail"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2012,
+        "color": "Green",
+        "price": 246292.37,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2013,
+        "color": "Blue",
+        "price": 204883.93,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2013,
+        "color": "Blue",
+        "price": 79635.82,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2014,
+        "color": "Gray",
+        "price": 196670.07,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2021,
+        "color": "Green",
+        "price": 278539.3,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2015,
+        "color": "Yellow",
+        "price": 150625.4,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2022,
+        "color": "White",
+        "price": 61929.24,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2009,
+        "color": "Red",
+        "price": 23452.34,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2013,
+        "color": "Gray",
+        "price": 156468.63,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2020,
+        "color": "White",
+        "price": 252708.53,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2002,
+        "color": "Yellow",
+        "price": 28743.38,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2013,
+        "color": "Blue",
+        "price": 159464.55,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2021,
+        "color": "Green",
+        "price": 45637.52,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2018,
+        "color": "Red",
+        "price": 270413.99,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2009,
+        "color": "White",
+        "price": 219885.42,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2005,
+        "color": "Black",
+        "price": 267447.8,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2009,
+        "color": "Silver",
+        "price": 70457.08,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2001,
+        "color": "Brown",
+        "price": 120656.04,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2002,
+        "color": "Black",
+        "price": 182768.98,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2025,
+        "color": "Red",
+        "price": 109600.9,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2012,
+        "color": "White",
+        "price": 254712.5,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2007,
+        "color": "Gold",
+        "price": 105026.39,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2005,
+        "color": "Black",
+        "price": 106439.92,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2009,
+        "color": "Blue",
+        "price": 181681.96,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2014,
+        "color": "Blue",
+        "price": 219356.96,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2009,
+        "color": "Brown",
+        "price": 224725.31,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2025,
+        "color": "Silver",
+        "price": 61804.59,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2008,
+        "color": "Brown",
+        "price": 187349.29,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2022,
+        "color": "Brown",
+        "price": 224021.95,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2019,
+        "color": "Silver",
+        "price": 96593.31,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2016,
+        "color": "Gray",
+        "price": 255596.72,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2008,
+        "color": "Gold",
+        "price": 145533.78,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 162304.04,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2025,
+        "color": "Silver",
+        "price": 218278.83,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2000,
+        "color": "White",
+        "price": 111123.59,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2015,
+        "color": "Yellow",
+        "price": 268541.44,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2006,
+        "color": "Brown",
+        "price": 214714.2,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2023,
+        "color": "White",
+        "price": 45099.48,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2001,
+        "color": "White",
+        "price": 116430.39,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2016,
+        "color": "Gray",
+        "price": 155879.9,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2004,
+        "color": "Red",
+        "price": 207028.94,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 147809.63,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2015,
+        "color": "Blue",
+        "price": 52246.53,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2013,
+        "color": "White",
+        "price": 152451.56,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2007,
+        "color": "Green",
+        "price": 132535.53,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2024,
+        "color": "Blue",
+        "price": 122591.93,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2010,
+        "color": "Gold",
+        "price": 25165.61,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2004,
+        "color": "Black",
+        "price": 18760.75,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2022,
+        "color": "Silver",
+        "price": 255560.69,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2015,
+        "color": "Yellow",
+        "price": 127926.35,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2015,
+        "color": "Gold",
+        "price": 185729.53,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2015,
+        "color": "White",
+        "price": 44527.86,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2025,
+        "color": "Brown",
+        "price": 238090.67,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2005,
+        "color": "Green",
+        "price": 58218.0,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2006,
+        "color": "Gold",
+        "price": 190238.12,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2017,
+        "color": "White",
+        "price": 69909.12,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2006,
+        "color": "Gray",
+        "price": 63561.36,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2007,
+        "color": "Gold",
+        "price": 158885.45,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2018,
+        "color": "Gray",
+        "price": 130315.1,
+        "city": "Najran"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2021,
+        "color": "Brown",
+        "price": 100934.18,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2007,
+        "color": "Red",
+        "price": 61487.5,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2016,
+        "color": "Silver",
+        "price": 202084.51,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2007,
+        "color": "Brown",
+        "price": 107096.58,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2019,
+        "color": "Black",
+        "price": 27892.3,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2019,
+        "color": "Gray",
+        "price": 91747.83,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2007,
+        "color": "Gold",
+        "price": 182310.92,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2024,
+        "color": "Silver",
+        "price": 267542.26,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2022,
+        "color": "White",
+        "price": 142557.41,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2000,
+        "color": "White",
+        "price": 187655.01,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2024,
+        "color": "Brown",
+        "price": 205095.56,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2021,
+        "color": "Gold",
+        "price": 109805.36,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2014,
+        "color": "Yellow",
+        "price": 61961.77,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2024,
+        "color": "Gray",
+        "price": 168682.77,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2025,
+        "color": "Blue",
+        "price": 52339.67,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2017,
+        "color": "Red",
+        "price": 155431.91,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2018,
+        "color": "Blue",
+        "price": 94166.61,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2005,
+        "color": "White",
+        "price": 127269.31,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2013,
+        "color": "Gold",
+        "price": 141780.58,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2008,
+        "color": "White",
+        "price": 239418.93,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2016,
+        "color": "Red",
+        "price": 114920.26,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2007,
+        "color": "Black",
+        "price": 164983.95,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2019,
+        "color": "Gold",
+        "price": 188275.21,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2025,
+        "color": "Green",
+        "price": 62742.85,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2020,
+        "color": "Red",
+        "price": 145031.47,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2005,
+        "color": "White",
+        "price": 259312.63,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2022,
+        "color": "Red",
+        "price": 45904.26,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2015,
+        "color": "Gold",
+        "price": 189203.91,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2014,
+        "color": "Green",
+        "price": 186126.98,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2017,
+        "color": "Red",
+        "price": 122558.09,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2016,
+        "color": "Gray",
+        "price": 229033.48,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2016,
+        "color": "Silver",
+        "price": 117979.98,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2021,
+        "color": "Silver",
+        "price": 285369.56,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2013,
+        "color": "Gold",
+        "price": 57492.64,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2009,
+        "color": "Brown",
+        "price": 225534.69,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 134934.28,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2015,
+        "color": "Red",
+        "price": 230647.98,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2007,
+        "color": "Red",
+        "price": 252390.5,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2017,
+        "color": "White",
+        "price": 112989.98,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2022,
+        "color": "Blue",
+        "price": 229619.26,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2013,
+        "color": "White",
+        "price": 44448.76,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2020,
+        "color": "White",
+        "price": 216672.95,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2000,
+        "color": "Green",
+        "price": 48833.05,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2000,
+        "color": "Black",
+        "price": 165511.78,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2015,
+        "color": "Green",
+        "price": 145858.87,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2000,
+        "color": "Green",
+        "price": 129238.32,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2013,
+        "color": "Yellow",
+        "price": 287696.59,
+        "city": "Medina"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2023,
+        "color": "Blue",
+        "price": 99287.21,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2023,
+        "color": "Green",
+        "price": 95321.96,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2008,
+        "color": "Blue",
+        "price": 93842.58,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2008,
+        "color": "Brown",
+        "price": 110189.15,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2010,
+        "color": "White",
+        "price": 206516.63,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2003,
+        "color": "Blue",
+        "price": 130537.0,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2002,
+        "color": "Blue",
+        "price": 106055.27,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2025,
+        "color": "Green",
+        "price": 197860.85,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2006,
+        "color": "Brown",
+        "price": 216720.38,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2003,
+        "color": "White",
+        "price": 196187.58,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2011,
+        "color": "White",
+        "price": 239275.28,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2003,
+        "color": "Yellow",
+        "price": 82468.15,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2003,
+        "color": "White",
+        "price": 88385.49,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 230543.25,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2025,
+        "color": "Black",
+        "price": 239684.98,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2020,
+        "color": "Gray",
+        "price": 251769.81,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2025,
+        "color": "Blue",
+        "price": 107296.39,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2005,
+        "color": "Yellow",
+        "price": 91657.11,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2002,
+        "color": "White",
+        "price": 207299.29,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2022,
+        "color": "Gold",
+        "price": 223537.78,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2003,
+        "color": "Yellow",
+        "price": 282155.23,
+        "city": "Medina"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2025,
+        "color": "Brown",
+        "price": 167005.17,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 229027.71,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2008,
+        "color": "White",
+        "price": 252976.83,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2013,
+        "color": "Yellow",
+        "price": 20649.9,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2017,
+        "color": "Green",
+        "price": 104602.6,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2015,
+        "color": "Gray",
+        "price": 107468.09,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2001,
+        "color": "Blue",
+        "price": 30727.51,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2005,
+        "color": "Silver",
+        "price": 205507.56,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2005,
+        "color": "Brown",
+        "price": 93078.87,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2022,
+        "color": "Gold",
+        "price": 25040.02,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2004,
+        "color": "Gray",
+        "price": 136325.93,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2012,
+        "color": "White",
+        "price": 266787.48,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2017,
+        "color": "Gold",
+        "price": 46707.92,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2010,
+        "color": "Yellow",
+        "price": 163523.83,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2003,
+        "color": "Black",
+        "price": 153084.94,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2015,
+        "color": "Red",
+        "price": 210971.79,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2009,
+        "color": "White",
+        "price": 263747.31,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2025,
+        "color": "Gray",
+        "price": 249947.32,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2010,
+        "color": "Gold",
+        "price": 184786.59,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2023,
+        "color": "Silver",
+        "price": 26974.87,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2019,
+        "color": "White",
+        "price": 153780.1,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2008,
+        "color": "Green",
+        "price": 16857.27,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2010,
+        "color": "Gold",
+        "price": 120453.02,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2023,
+        "color": "Black",
+        "price": 295410.4,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2002,
+        "color": "Silver",
+        "price": 192983.93,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2006,
+        "color": "Red",
+        "price": 28637.96,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2015,
+        "color": "Green",
+        "price": 157413.77,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2025,
+        "color": "Green",
+        "price": 43272.8,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2005,
+        "color": "Black",
+        "price": 94420.78,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2021,
+        "color": "Silver",
+        "price": 179532.65,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2000,
+        "color": "Red",
+        "price": 251059.98,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2019,
+        "color": "Brown",
+        "price": 193437.55,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2001,
+        "color": "Silver",
+        "price": 72601.2,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2003,
+        "color": "Yellow",
+        "price": 294409.24,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2001,
+        "color": "Green",
+        "price": 96512.43,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2021,
+        "color": "White",
+        "price": 221069.78,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2009,
+        "color": "Blue",
+        "price": 256452.83,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2007,
+        "color": "Silver",
+        "price": 190450.06,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2025,
+        "color": "Yellow",
+        "price": 295215.08,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2001,
+        "color": "Brown",
+        "price": 47720.56,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2025,
+        "color": "Gray",
+        "price": 84654.34,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2001,
+        "color": "Black",
+        "price": 297257.79,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2012,
+        "color": "Black",
+        "price": 140742.8,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2023,
+        "color": "Gold",
+        "price": 111145.75,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2006,
+        "color": "White",
+        "price": 23079.22,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2009,
+        "color": "White",
+        "price": 67246.29,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2005,
+        "color": "Black",
+        "price": 209043.65,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2002,
+        "color": "Black",
+        "price": 144344.71,
+        "city": "Medina"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2015,
+        "color": "Blue",
+        "price": 117449.61,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2003,
+        "color": "Gold",
+        "price": 287488.81,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2019,
+        "color": "Brown",
+        "price": 127589.97,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 248930.79,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2017,
+        "color": "Black",
+        "price": 276701.36,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2000,
+        "color": "Brown",
+        "price": 258755.23,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2019,
+        "color": "Black",
+        "price": 68013.42,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2003,
+        "color": "Gold",
+        "price": 72802.62,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2025,
+        "color": "Yellow",
+        "price": 248855.23,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2018,
+        "color": "Green",
+        "price": 143535.47,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2019,
+        "color": "Gray",
+        "price": 148834.66,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2022,
+        "color": "Red",
+        "price": 166967.81,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2000,
+        "color": "Black",
+        "price": 241511.33,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2000,
+        "color": "Green",
+        "price": 258257.84,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2015,
+        "color": "Red",
+        "price": 233207.22,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2017,
+        "color": "Gray",
+        "price": 120202.98,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2024,
+        "color": "Red",
+        "price": 35790.37,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2015,
+        "color": "Silver",
+        "price": 64252.09,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2008,
+        "color": "Silver",
+        "price": 142967.54,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2001,
+        "color": "White",
+        "price": 148512.57,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2001,
+        "color": "Blue",
+        "price": 160622.03,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2009,
+        "color": "Blue",
+        "price": 45429.81,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2016,
+        "color": "Gold",
+        "price": 196254.4,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2007,
+        "color": "Gold",
+        "price": 236497.98,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2008,
+        "color": "Green",
+        "price": 182329.01,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2008,
+        "color": "Gray",
+        "price": 17252.87,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2005,
+        "color": "Yellow",
+        "price": 151219.9,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2011,
+        "color": "Gold",
+        "price": 279113.78,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2013,
+        "color": "Green",
+        "price": 225998.85,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2012,
+        "color": "Black",
+        "price": 24519.5,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2020,
+        "color": "White",
+        "price": 59990.77,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2012,
+        "color": "Gray",
+        "price": 231864.73,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2023,
+        "color": "Yellow",
+        "price": 250730.61,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2015,
+        "color": "Brown",
+        "price": 115540.06,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2007,
+        "color": "Green",
+        "price": 75931.98,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2003,
+        "color": "Black",
+        "price": 159828.38,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2012,
+        "color": "Red",
+        "price": 73054.33,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2020,
+        "color": "Red",
+        "price": 214214.11,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2013,
+        "color": "Black",
+        "price": 170115.61,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2020,
+        "color": "Gray",
+        "price": 220594.38,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2006,
+        "color": "Red",
+        "price": 101034.76,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2000,
+        "color": "Brown",
+        "price": 151927.42,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2017,
+        "color": "Yellow",
+        "price": 264030.57,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2014,
+        "color": "Yellow",
+        "price": 93537.93,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2005,
+        "color": "Gold",
+        "price": 57366.44,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2024,
+        "color": "Silver",
+        "price": 277478.08,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2010,
+        "color": "White",
+        "price": 52761.55,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2010,
+        "color": "Silver",
+        "price": 187819.81,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2020,
+        "color": "Green",
+        "price": 189403.88,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2025,
+        "color": "Brown",
+        "price": 229409.71,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2018,
+        "color": "Silver",
+        "price": 42088.3,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2007,
+        "color": "White",
+        "price": 228474.24,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2002,
+        "color": "Yellow",
+        "price": 291666.36,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2010,
+        "color": "Gray",
+        "price": 84004.53,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2007,
+        "color": "Yellow",
+        "price": 178512.5,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2009,
+        "color": "Black",
+        "price": 193047.83,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 20997.68,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2005,
+        "color": "Gray",
+        "price": 182152.75,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2013,
+        "color": "White",
+        "price": 75248.51,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2020,
+        "color": "Silver",
+        "price": 283447.56,
+        "city": "Najran"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2025,
+        "color": "Green",
+        "price": 193149.06,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2016,
+        "color": "Black",
+        "price": 181219.18,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2017,
+        "color": "White",
+        "price": 210490.46,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 207871.59,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2007,
+        "color": "Brown",
+        "price": 134885.39,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2007,
+        "color": "Green",
+        "price": 93980.51,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2004,
+        "color": "Red",
+        "price": 217247.07,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2011,
+        "color": "Blue",
+        "price": 118641.48,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2024,
+        "color": "Silver",
+        "price": 270778.41,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2011,
+        "color": "Silver",
+        "price": 208439.38,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2010,
+        "color": "Blue",
+        "price": 166865.78,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2000,
+        "color": "Red",
+        "price": 197953.6,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2018,
+        "color": "Red",
+        "price": 181261.29,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2019,
+        "color": "Silver",
+        "price": 42340.89,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2019,
+        "color": "White",
+        "price": 148484.85,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2021,
+        "color": "Gray",
+        "price": 49909.8,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2017,
+        "color": "White",
+        "price": 295939.0,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2025,
+        "color": "Black",
+        "price": 253880.44,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2022,
+        "color": "Green",
+        "price": 53909.88,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2006,
+        "color": "Gray",
+        "price": 62312.74,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2012,
+        "color": "Silver",
+        "price": 159344.49,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2008,
+        "color": "Red",
+        "price": 116534.82,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2001,
+        "color": "Gold",
+        "price": 132936.01,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2018,
+        "color": "Blue",
+        "price": 261347.51,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2021,
+        "color": "Gold",
+        "price": 149936.97,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2009,
+        "color": "Silver",
+        "price": 240851.55,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2005,
+        "color": "Red",
+        "price": 130710.04,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2025,
+        "color": "Brown",
+        "price": 46121.41,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2025,
+        "color": "Red",
+        "price": 169734.21,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2001,
+        "color": "Yellow",
+        "price": 268433.29,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2012,
+        "color": "White",
+        "price": 130108.7,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2007,
+        "color": "Gray",
+        "price": 32231.02,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2012,
+        "color": "Green",
+        "price": 58998.72,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2001,
+        "color": "Red",
+        "price": 55743.86,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2010,
+        "color": "Silver",
+        "price": 156562.52,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2018,
+        "color": "Green",
+        "price": 294403.51,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2018,
+        "color": "Blue",
+        "price": 115690.89,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2019,
+        "color": "Yellow",
+        "price": 244907.19,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2019,
+        "color": "Brown",
+        "price": 59086.99,
+        "city": "Najran"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2023,
+        "color": "Yellow",
+        "price": 200529.9,
+        "city": "Medina"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2005,
+        "color": "Red",
+        "price": 92402.31,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2000,
+        "color": "Yellow",
+        "price": 113708.78,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2020,
+        "color": "Yellow",
+        "price": 182780.4,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2013,
+        "color": "Red",
+        "price": 129649.25,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2022,
+        "color": "Silver",
+        "price": 43242.45,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2008,
+        "color": "Yellow",
+        "price": 259489.35,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2008,
+        "color": "Green",
+        "price": 264199.67,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2022,
+        "color": "Brown",
+        "price": 179120.52,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2020,
+        "color": "Gray",
+        "price": 128555.1,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2025,
+        "color": "White",
+        "price": 107353.69,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2010,
+        "color": "Green",
+        "price": 79324.56,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 103092.97,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2005,
+        "color": "Yellow",
+        "price": 103019.63,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2018,
+        "color": "Red",
+        "price": 79419.18,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2004,
+        "color": "Blue",
+        "price": 200656.42,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2017,
+        "color": "Brown",
+        "price": 50686.08,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2004,
+        "color": "Yellow",
+        "price": 80884.73,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2025,
+        "color": "Gold",
+        "price": 62823.86,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2006,
+        "color": "Yellow",
+        "price": 225004.24,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2023,
+        "color": "Blue",
+        "price": 269187.77,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2005,
+        "color": "Green",
+        "price": 233753.79,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2008,
+        "color": "Silver",
+        "price": 184347.38,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2003,
+        "color": "Green",
+        "price": 248515.56,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2018,
+        "color": "Gold",
+        "price": 269323.98,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2017,
+        "color": "Green",
+        "price": 249038.74,
+        "city": "Najran"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2013,
+        "color": "Silver",
+        "price": 46771.22,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2017,
+        "color": "Black",
+        "price": 172527.96,
+        "city": "Medina"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2023,
+        "color": "Gray",
+        "price": 38675.06,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2000,
+        "color": "Blue",
+        "price": 187849.59,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2013,
+        "color": "Yellow",
+        "price": 94850.93,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2005,
+        "color": "Red",
+        "price": 196746.39,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2012,
+        "color": "Silver",
+        "price": 143533.68,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2019,
+        "color": "Green",
+        "price": 188567.17,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2025,
+        "color": "Silver",
+        "price": 136868.66,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2022,
+        "color": "Brown",
+        "price": 254758.06,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2020,
+        "color": "Brown",
+        "price": 255066.21,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2000,
+        "color": "Gold",
+        "price": 40204.22,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2011,
+        "color": "Gold",
+        "price": 88647.43,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2000,
+        "color": "Brown",
+        "price": 126070.3,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2015,
+        "color": "Black",
+        "price": 204193.17,
+        "city": "Medina"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2012,
+        "color": "Yellow",
+        "price": 242871.85,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2012,
+        "color": "Silver",
+        "price": 273552.82,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2000,
+        "color": "Silver",
+        "price": 159561.44,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2001,
+        "color": "Silver",
+        "price": 183631.57,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2003,
+        "color": "Red",
+        "price": 123037.34,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2006,
+        "color": "Yellow",
+        "price": 120721.28,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2014,
+        "color": "Blue",
+        "price": 199142.93,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2007,
+        "color": "White",
+        "price": 141702.13,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2011,
+        "color": "Black",
+        "price": 78236.82,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2004,
+        "color": "Black",
+        "price": 220912.22,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2014,
+        "color": "Gold",
+        "price": 137670.12,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2000,
+        "color": "Black",
+        "price": 128218.44,
+        "city": "Medina"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2012,
+        "color": "Red",
+        "price": 152853.26,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2020,
+        "color": "Yellow",
+        "price": 113797.41,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2024,
+        "color": "Gold",
+        "price": 197605.07,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2012,
+        "color": "Gold",
+        "price": 77702.01,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2017,
+        "color": "Blue",
+        "price": 95144.63,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2011,
+        "color": "Gold",
+        "price": 40643.25,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2000,
+        "color": "Red",
+        "price": 271051.16,
+        "city": "Abha"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2007,
+        "color": "Yellow",
+        "price": 267812.26,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2008,
+        "color": "Gold",
+        "price": 75199.92,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2004,
+        "color": "Green",
+        "price": 25567.99,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2010,
+        "color": "Green",
+        "price": 129565.76,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2022,
+        "color": "Green",
+        "price": 274346.32,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2020,
+        "color": "White",
+        "price": 274884.54,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2008,
+        "color": "Green",
+        "price": 209171.38,
+        "city": "Dammam"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2014,
+        "color": "Gray",
+        "price": 15677.08,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2016,
+        "color": "Gold",
+        "price": 49596.04,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2021,
+        "color": "Brown",
+        "price": 145847.32,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2012,
+        "color": "Blue",
+        "price": 29368.53,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2004,
+        "color": "Gold",
+        "price": 213468.48,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2001,
+        "color": "Green",
+        "price": 69844.34,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2002,
+        "color": "Gold",
+        "price": 58913.01,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2016,
+        "color": "Gray",
+        "price": 48162.83,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2011,
+        "color": "Gray",
+        "price": 119645.44,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2003,
+        "color": "Yellow",
+        "price": 269633.59,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2007,
+        "color": "Black",
+        "price": 118577.03,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2006,
+        "color": "Gray",
+        "price": 292176.17,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2016,
+        "color": "Silver",
+        "price": 83105.25,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2020,
+        "color": "Brown",
+        "price": 263374.79,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2005,
+        "color": "Red",
+        "price": 295697.93,
+        "city": "Medina"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2025,
+        "color": "Brown",
+        "price": 207164.08,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2005,
+        "color": "Gray",
+        "price": 18961.91,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2016,
+        "color": "Green",
+        "price": 291536.76,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 229478.37,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2014,
+        "color": "Silver",
+        "price": 258435.39,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2012,
+        "color": "Gray",
+        "price": 285859.96,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2006,
+        "color": "Gold",
+        "price": 181935.87,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2003,
+        "color": "Gray",
+        "price": 192292.24,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2011,
+        "color": "Silver",
+        "price": 238566.18,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2016,
+        "color": "Gold",
+        "price": 158167.06,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2011,
+        "color": "Brown",
+        "price": 162716.5,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 88024.42,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2007,
+        "color": "Silver",
+        "price": 64840.49,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2022,
+        "color": "Blue",
+        "price": 45085.45,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2024,
+        "color": "Gold",
+        "price": 256549.88,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2006,
+        "color": "Silver",
+        "price": 181754.76,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2023,
+        "color": "Red",
+        "price": 62579.94,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2025,
+        "color": "Gold",
+        "price": 41407.37,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2019,
+        "color": "Red",
+        "price": 56408.19,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2023,
+        "color": "Red",
+        "price": 251647.09,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2014,
+        "color": "Black",
+        "price": 251811.34,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2012,
+        "color": "Green",
+        "price": 46000.59,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2023,
+        "color": "Black",
+        "price": 287249.4,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2017,
+        "color": "White",
+        "price": 233314.38,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2000,
+        "color": "Green",
+        "price": 21800.56,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2012,
+        "color": "Gold",
+        "price": 83235.3,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2018,
+        "color": "Silver",
+        "price": 182520.22,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 122120.51,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2025,
+        "color": "White",
+        "price": 173733.95,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2006,
+        "color": "Black",
+        "price": 290499.12,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2025,
+        "color": "Blue",
+        "price": 156731.47,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2012,
+        "color": "Brown",
+        "price": 48682.45,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Accord",
+        "year": 2002,
+        "color": "Blue",
+        "price": 279571.76,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2009,
+        "color": "White",
+        "price": 240089.29,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2011,
+        "color": "Yellow",
+        "price": 116687.67,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2000,
+        "color": "Gray",
+        "price": 228738.88,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2009,
+        "color": "Silver",
+        "price": 286996.19,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2002,
+        "color": "Red",
+        "price": 147637.99,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2013,
+        "color": "Brown",
+        "price": 249101.51,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2006,
+        "color": "Silver",
+        "price": 126751.06,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2021,
+        "color": "Black",
+        "price": 171045.8,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2025,
+        "color": "Brown",
+        "price": 158634.85,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2014,
+        "color": "White",
+        "price": 284703.72,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2018,
+        "color": "Blue",
+        "price": 31573.69,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2007,
+        "color": "Yellow",
+        "price": 49103.88,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2018,
+        "color": "Silver",
+        "price": 169304.86,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2023,
+        "color": "Blue",
+        "price": 251081.54,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2004,
+        "color": "Gray",
+        "price": 244709.87,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2017,
+        "color": "Green",
+        "price": 139528.91,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2014,
+        "color": "Gold",
+        "price": 247695.48,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2014,
+        "color": "White",
+        "price": 165196.61,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2007,
+        "color": "Gray",
+        "price": 68706.53,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2000,
+        "color": "Blue",
+        "price": 186088.87,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2006,
+        "color": "Silver",
+        "price": 39970.53,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2021,
+        "color": "Gold",
+        "price": 90661.53,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2015,
+        "color": "Yellow",
+        "price": 161205.09,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLC",
+        "year": 2012,
+        "color": "Brown",
+        "price": 180760.83,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2007,
+        "color": "Yellow",
+        "price": 48354.4,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2004,
+        "color": "Silver",
+        "price": 67904.36,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2012,
+        "color": "Black",
+        "price": 88335.99,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2023,
+        "color": "Green",
+        "price": 150084.93,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2023,
+        "color": "Silver",
+        "price": 266557.25,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2010,
+        "color": "White",
+        "price": 34465.42,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2001,
+        "color": "Red",
+        "price": 162288.53,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2024,
+        "color": "Gray",
+        "price": 70992.72,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2005,
+        "color": "White",
+        "price": 193833.22,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2010,
+        "color": "Green",
+        "price": 230626.97,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2015,
+        "color": "Blue",
+        "price": 73502.4,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2009,
+        "color": "Yellow",
+        "price": 220138.02,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2024,
+        "color": "Gold",
+        "price": 269383.87,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 30767.04,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sportage",
+        "year": 2025,
+        "color": "Gold",
+        "price": 21809.26,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2007,
+        "color": "Gold",
+        "price": 83677.74,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2019,
+        "color": "Yellow",
+        "price": 96232.43,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 152142.0,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2009,
+        "color": "Red",
+        "price": 252808.36,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Rio",
+        "year": 2008,
+        "color": "Yellow",
+        "price": 272496.68,
+        "city": "Medina"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2022,
+        "color": "Red",
+        "price": 112209.34,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2024,
+        "color": "Red",
+        "price": 150325.3,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2000,
+        "color": "White",
+        "price": 286834.8,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2020,
+        "color": "Gold",
+        "price": 109684.27,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2022,
+        "color": "Yellow",
+        "price": 296332.81,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2008,
+        "color": "Green",
+        "price": 212555.21,
+        "city": "Najran"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2000,
+        "color": "Green",
+        "price": 187192.88,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2010,
+        "color": "Brown",
+        "price": 254266.52,
+        "city": "Medina"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2018,
+        "color": "Red",
+        "price": 147191.69,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Yaris",
+        "year": 2020,
+        "color": "White",
+        "price": 281076.79,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2021,
+        "color": "White",
+        "price": 193600.8,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2024,
+        "color": "Black",
+        "price": 288083.8,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2020,
+        "color": "Yellow",
+        "price": 187405.02,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2019,
+        "color": "Yellow",
+        "price": 123014.26,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2004,
+        "color": "Red",
+        "price": 183823.39,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2004,
+        "color": "Gray",
+        "price": 133843.62,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2000,
+        "color": "Silver",
+        "price": 214491.32,
+        "city": "Hail"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2018,
+        "color": "Gray",
+        "price": 262289.71,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2022,
+        "color": "White",
+        "price": 93321.2,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2009,
+        "color": "Black",
+        "price": 288903.81,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2016,
+        "color": "Silver",
+        "price": 30639.06,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2016,
+        "color": "Black",
+        "price": 56904.8,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2018,
+        "color": "White",
+        "price": 23330.78,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2008,
+        "color": "Black",
+        "price": 272047.13,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2016,
+        "color": "Gray",
+        "price": 102326.94,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2006,
+        "color": "White",
+        "price": 205956.92,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2023,
+        "color": "Brown",
+        "price": 84128.51,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2025,
+        "color": "Gray",
+        "price": 218319.14,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2000,
+        "color": "White",
+        "price": 175602.23,
+        "city": "Medina"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2016,
+        "color": "Green",
+        "price": 180471.18,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2008,
+        "color": "Brown",
+        "price": 107170.3,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2004,
+        "color": "Gold",
+        "price": 121416.47,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2004,
+        "color": "Brown",
+        "price": 193724.24,
+        "city": "Najran"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2010,
+        "color": "Green",
+        "price": 106074.84,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2006,
+        "color": "Yellow",
+        "price": 242089.26,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2005,
+        "color": "Gray",
+        "price": 211892.05,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2018,
+        "color": "Yellow",
+        "price": 236179.9,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2018,
+        "color": "Green",
+        "price": 116098.87,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2013,
+        "color": "Silver",
+        "price": 224691.51,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2003,
+        "color": "Brown",
+        "price": 35074.18,
+        "city": "Mecca"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2003,
+        "color": "Black",
+        "price": 55983.55,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2005,
+        "color": "Black",
+        "price": 212126.02,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 84166.52,
+        "city": "Medina"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2007,
+        "color": "Black",
+        "price": 60371.91,
+        "city": "Medina"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2015,
+        "color": "White",
+        "price": 66961.77,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2016,
+        "color": "White",
+        "price": 249854.35,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2007,
+        "color": "Red",
+        "price": 166191.32,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2021,
+        "color": "Red",
+        "price": 94363.52,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2013,
+        "color": "Gray",
+        "price": 138147.2,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2003,
+        "color": "White",
+        "price": 150636.46,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2001,
+        "color": "Yellow",
+        "price": 259974.52,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2006,
+        "color": "Silver",
+        "price": 128556.78,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2014,
+        "color": "Blue",
+        "price": 190913.42,
+        "city": "Medina"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2022,
+        "color": "Silver",
+        "price": 259156.51,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2013,
+        "color": "Brown",
+        "price": 221669.28,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2007,
+        "color": "Gray",
+        "price": 62135.89,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2010,
+        "color": "White",
+        "price": 257728.07,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2024,
+        "color": "Blue",
+        "price": 296808.07,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2021,
+        "color": "Gray",
+        "price": 291697.98,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2007,
+        "color": "Silver",
+        "price": 142935.19,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2008,
+        "color": "Red",
+        "price": 19110.81,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2025,
+        "color": "Brown",
+        "price": 108849.54,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2014,
+        "color": "Red",
+        "price": 146365.17,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Fusion",
+        "year": 2025,
+        "color": "White",
+        "price": 110513.53,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2019,
+        "color": "Black",
+        "price": 52673.44,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2004,
+        "color": "Black",
+        "price": 276809.78,
+        "city": "Hail"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2021,
+        "color": "Blue",
+        "price": 298771.16,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2023,
+        "color": "White",
+        "price": 152622.9,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2019,
+        "color": "Brown",
+        "price": 74513.44,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Maxima",
+        "year": 2001,
+        "color": "Gold",
+        "price": 156223.48,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Mustang",
+        "year": 2015,
+        "color": "Gray",
+        "price": 125513.96,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2002,
+        "color": "Green",
+        "price": 157419.92,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2000,
+        "color": "Silver",
+        "price": 144720.25,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2012,
+        "color": "White",
+        "price": 271674.12,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2009,
+        "color": "Blue",
+        "price": 204185.69,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2013,
+        "color": "Red",
+        "price": 48911.51,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2022,
+        "color": "Silver",
+        "price": 104194.0,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2017,
+        "color": "Green",
+        "price": 189530.13,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2011,
+        "color": "Blue",
+        "price": 194237.14,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2025,
+        "color": "Red",
+        "price": 82299.34,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Sonata",
+        "year": 2022,
+        "color": "Gray",
+        "price": 72611.91,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2020,
+        "color": "Yellow",
+        "price": 212168.84,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2005,
+        "color": "Black",
+        "price": 228651.01,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2008,
+        "color": "Gold",
+        "price": 160991.89,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2006,
+        "color": "Yellow",
+        "price": 175517.46,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "GLE",
+        "year": 2003,
+        "color": "Green",
+        "price": 101797.57,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2017,
+        "color": "Red",
+        "price": 60897.11,
+        "city": "Hail"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2007,
+        "color": "Yellow",
+        "price": 107721.95,
+        "city": "Abha"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2024,
+        "color": "Brown",
+        "price": 122422.39,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2025,
+        "color": "Black",
+        "price": 149370.52,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2006,
+        "color": "Black",
+        "price": 194287.33,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2015,
+        "color": "Black",
+        "price": 103262.71,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2004,
+        "color": "Blue",
+        "price": 248808.39,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2023,
+        "color": "Yellow",
+        "price": 71602.72,
+        "city": "Najran"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2007,
+        "color": "White",
+        "price": 275317.93,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2000,
+        "color": "Gold",
+        "price": 137473.38,
+        "city": "Hail"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2008,
+        "color": "Silver",
+        "price": 256858.53,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2020,
+        "color": "Yellow",
+        "price": 191387.81,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2018,
+        "color": "Gold",
+        "price": 26902.01,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2007,
+        "color": "Black",
+        "price": 111610.94,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2021,
+        "color": "Silver",
+        "price": 60744.72,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-9",
+        "year": 2014,
+        "color": "Black",
+        "price": 248935.24,
+        "city": "Najran"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2013,
+        "color": "Black",
+        "price": 181881.88,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2023,
+        "color": "Yellow",
+        "price": 42359.16,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2019,
+        "color": "Brown",
+        "price": 161907.27,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2004,
+        "color": "Blue",
+        "price": 101963.72,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2011,
+        "color": "Brown",
+        "price": 22673.87,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2005,
+        "color": "Brown",
+        "price": 258180.12,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2014,
+        "color": "White",
+        "price": 101876.92,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2003,
+        "color": "White",
+        "price": 168892.15,
+        "city": "Abha"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2013,
+        "color": "Gold",
+        "price": 86690.02,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2012,
+        "color": "Brown",
+        "price": 164765.57,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2002,
+        "color": "Brown",
+        "price": 96898.59,
+        "city": "Medina"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2016,
+        "color": "Blue",
+        "price": 106728.46,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "X3",
+        "year": 2015,
+        "color": "Silver",
+        "price": 166005.2,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2005,
+        "color": "Green",
+        "price": 127632.12,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2020,
+        "color": "Red",
+        "price": 299851.16,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2015,
+        "color": "Black",
+        "price": 212430.68,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2022,
+        "color": "Brown",
+        "price": 278808.16,
+        "city": "Hail"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2017,
+        "color": "Red",
+        "price": 214554.65,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2017,
+        "color": "Gold",
+        "price": 223412.79,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2021,
+        "color": "Red",
+        "price": 285669.44,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "E-Class",
+        "year": 2016,
+        "color": "Black",
+        "price": 17440.22,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "C-Class",
+        "year": 2009,
+        "color": "Gray",
+        "price": 39348.99,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Mazda",
+        "name": "CX-5",
+        "year": 2006,
+        "color": "Yellow",
+        "price": 63929.53,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Land Cruiser",
+        "year": 2023,
+        "color": "Red",
+        "price": 261158.68,
+        "city": "Abha"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Santa Fe",
+        "year": 2008,
+        "color": "White",
+        "price": 61820.42,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Malibu",
+        "year": 2021,
+        "color": "Gold",
+        "price": 197738.68,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2015,
+        "color": "Black",
+        "price": 168203.82,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2010,
+        "color": "White",
+        "price": 17730.2,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "name": "S-Class",
+        "year": 2016,
+        "color": "White",
+        "price": 255297.47,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2014,
+        "color": "Blue",
+        "price": 245721.09,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2016,
+        "color": "Red",
+        "price": 159985.26,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2016,
+        "color": "Blue",
+        "price": 163904.62,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2023,
+        "color": "Brown",
+        "price": 69036.26,
+        "city": "Najran"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2021,
+        "color": "Gray",
+        "price": 240570.05,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2015,
+        "color": "Silver",
+        "price": 32867.34,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "Pilot",
+        "year": 2000,
+        "color": "Red",
+        "price": 284132.11,
+        "city": "Najran"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2000,
+        "color": "Black",
+        "price": 231402.06,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2000,
+        "color": "Yellow",
+        "price": 78850.23,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "RAV4",
+        "year": 2017,
+        "color": "Red",
+        "price": 235808.94,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Kia",
+        "name": "Forte",
+        "year": 2008,
+        "color": "Yellow",
+        "price": 119239.9,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda3",
+        "year": 2008,
+        "color": "Brown",
+        "price": 284837.93,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2007,
+        "color": "Brown",
+        "price": 178355.64,
+        "city": "Abha"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2006,
+        "color": "Green",
+        "price": 193485.15,
+        "city": "Jeddah"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2023,
+        "color": "Silver",
+        "price": 93013.82,
+        "city": "Najran"
+    },
+    {
+        "brand": "Kia",
+        "name": "Sorento",
+        "year": 2009,
+        "color": "Brown",
+        "price": 36046.03,
+        "city": "Hail"
+    },
+    {
+        "brand": "BMW",
+        "name": "X5",
+        "year": 2016,
+        "color": "Blue",
+        "price": 208522.34,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "BMW",
+        "name": "3 Series",
+        "year": 2024,
+        "color": "Blue",
+        "price": 97006.6,
+        "city": "Abha"
+    },
+    {
+        "brand": "Mazda",
+        "name": "Mazda6",
+        "year": 2024,
+        "color": "Silver",
+        "price": 40083.75,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2015,
+        "color": "Blue",
+        "price": 184402.61,
+        "city": "Medina"
+    },
+    {
+        "brand": "Mazda",
+        "name": "MX-5",
+        "year": 2010,
+        "color": "Silver",
+        "price": 171845.75,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Honda",
+        "name": "Fit",
+        "year": 2019,
+        "color": "Brown",
+        "price": 142381.55,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2022,
+        "color": "Blue",
+        "price": 170460.41,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2021,
+        "color": "Red",
+        "price": 146897.04,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Tahoe",
+        "year": 2016,
+        "color": "Yellow",
+        "price": 236805.87,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Ford",
+        "name": "Escape",
+        "year": 2012,
+        "color": "Gray",
+        "price": 214371.12,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Elantra",
+        "year": 2013,
+        "color": "Gray",
+        "price": 20710.8,
+        "city": "Najran"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2001,
+        "color": "Green",
+        "price": 93069.07,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Altima",
+        "year": 2007,
+        "color": "Gold",
+        "price": 212548.79,
+        "city": "Khobar"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2020,
+        "color": "Black",
+        "price": 208878.68,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Focus",
+        "year": 2005,
+        "color": "Red",
+        "price": 237665.75,
+        "city": "Khobar"
+    },
+    {
+        "brand": "BMW",
+        "name": "7 Series",
+        "year": 2021,
+        "color": "Yellow",
+        "price": 86730.69,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Equinox",
+        "year": 2009,
+        "color": "Gray",
+        "price": 15592.5,
+        "city": "Dammam"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Sentra",
+        "year": 2004,
+        "color": "Blue",
+        "price": 275294.68,
+        "city": "Hail"
+    },
+    {
+        "brand": "Kia",
+        "name": "Optima",
+        "year": 2006,
+        "color": "Red",
+        "price": 38309.04,
+        "city": "Abha"
+    },
+    {
+        "brand": "BMW",
+        "name": "5 Series",
+        "year": 2000,
+        "color": "Yellow",
+        "price": 176255.67,
+        "city": "Abha"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Pathfinder",
+        "year": 2000,
+        "color": "Brown",
+        "price": 232395.81,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Camry",
+        "year": 2015,
+        "color": "Black",
+        "price": 238613.61,
+        "city": "Abha"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2022,
+        "color": "Red",
+        "price": 126080.44,
+        "city": "Medina"
+    },
+    {
+        "brand": "Honda",
+        "name": "Civic",
+        "year": 2002,
+        "color": "Gold",
+        "price": 90472.33,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Nissan",
+        "name": "Rogue",
+        "year": 2011,
+        "color": "Silver",
+        "price": 40933.84,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2017,
+        "color": "White",
+        "price": 241501.94,
+        "city": "Hail"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Tucson",
+        "year": 2023,
+        "color": "Gold",
+        "price": 253455.53,
+        "city": "Hail"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Cruze",
+        "year": 2019,
+        "color": "Silver",
+        "price": 64922.36,
+        "city": "Hail"
+    },
+    {
+        "brand": "Toyota",
+        "name": "Corolla",
+        "year": 2001,
+        "color": "Black",
+        "price": 114077.36,
+        "city": "Najran"
+    },
+    {
+        "brand": "Ford",
+        "name": "Explorer",
+        "year": 2024,
+        "color": "Blue",
+        "price": 37190.65,
+        "city": "Tabuk"
+    },
+    {
+        "brand": "Honda",
+        "name": "CR-V",
+        "year": 2005,
+        "color": "Brown",
+        "price": 143015.55,
+        "city": "Mecca"
+    },
+    {
+        "brand": "Hyundai",
+        "name": "Accent",
+        "year": 2001,
+        "color": "Silver",
+        "price": 287777.32,
+        "city": "Riyadh"
+    },
+    {
+        "brand": "Chevrolet",
+        "name": "Impala",
+        "year": 2024,
+        "color": "Yellow",
+        "price": 82512.36,
+        "city": "Riyadh"
+    }
+]
