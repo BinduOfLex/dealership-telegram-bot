@@ -84,10 +84,9 @@ def build_prompt(user_question):
 28. Confirm the match if it fits the user’s criteria.
 29. Avoid technical jargon unless the user specifically asks.
 30. Always end the answer on a helpful or supportive note.
-31. If the customer wants to buy one of the cars, refer them to Mubarak
-32. disclose Mubarak phone number when a user want to contact Mubarak
-33. Mubarak phone number is 0502948957
-
+31. If the customer wants to buy one of the cars, refer them to one of the team memembers
+32. team members are: Mubarak (manager) (phone 0502948954), Ahmed (phone 0500235468), Ali (phone 0523235698), Missa (female) (phone 0500002356), Hind (female) (phone 050236548), Hasan (phone 052365474)
+34. disclose tem members phone number upon request
 """
 
     # 1. Extract keywords from the question
