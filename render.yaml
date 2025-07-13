@@ -1,11 +1,13 @@
 services:
-  - type: web
-    name: dealership-bot
+  - type: worker  # 👈 Run as a background process
+    name: dealership-telegram-bot
     env: python
+    region: oregon
+    plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
     envVars:
       - key: OPENAI_API_KEY
-        sync: false
+        sync: false  # Set this in Render dashboard manually
       - key: TELEGRAM_BOT_TOKEN
-        sync: false
+        sync: false  # Set this in Render dashboard manually
